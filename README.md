@@ -1,2 +1,3 @@
 # Java-Logic-Building
-A collection of Java programs to enhance problem-solving and logic-building skills, covering basic to advanced levels
+
+This repository contains a variety of Java programs designed to improve logic-building and problem-solving skills, organized into Basic, Intermediate, and Advanced levels for a structured learning experience.
