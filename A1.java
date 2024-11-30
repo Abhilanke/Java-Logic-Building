@@ -3,7 +3,7 @@ package logicbuilding;
 //a)028
 //b)28
 //c)0
-//d)Error
+//*d)Error*
 
 public class A1 {
 
