@@ -1,6 +1,6 @@
 package logicbuilding;
 //what is outpute below code
-//A)1248.0
+// *A)1248.0*
 //B)7_6_7
 //C)can not be integer value
 //D)1248
