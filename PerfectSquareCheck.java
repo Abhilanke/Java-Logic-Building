@@ -1,5 +1,5 @@
 package logicbuilding.Youtube;
-
+//Write a Program To check perfect square
 import java.util.Scanner;// 2^2=4
 
 public class PerfectSquareCheck {
