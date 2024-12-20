@@ -1,6 +1,6 @@
 package logicbuilding;
 
-public class CountTheNumberOFDigitsinNumber {
+public class CountTheNumberOFDigitsinNumber  {
 
 	public static void main(String[] args) {
 		int num=12323234;
