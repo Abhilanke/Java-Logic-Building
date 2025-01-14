@@ -1,5 +1,5 @@
 package logicbuilding.Array;
-//Write a program To Count Even And Odd Number Using For Loop If Else Loop ?
+//Write a program To Count Even And Odd Number Using For Loop If Else Loop?
 public class CountOddEvenNumber {
 	public static void main(String[] args) {
 		
