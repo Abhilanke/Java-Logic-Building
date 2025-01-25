@@ -5,7 +5,6 @@ package logicbuilding;
 //Input Data:
 //Input a hexadecimal number: 25
 //Expected Output
-//
 //Equivalent decimal number is: 37
 import java.util.Scanner;
 
