@@ -5,7 +5,6 @@ package logicbuilding;
 //Input Data:
 //Input a Binary Number: 111
 //Expected Output
-
 //Octal number: 7 
 import java.util.Scanner;
 
