@@ -7,7 +7,6 @@ import java.util.Scanner;
 //Input Data:
 //Input a Binary Number: 1101
 //Expected Output
-//
 //HexaDecimal value: D  
 public class BinarytoHexadecimalConverter {
 
