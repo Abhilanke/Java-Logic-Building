@@ -5,7 +5,6 @@ package logicbuilding;
 //Expected Output
 //Area is:176.625
 //Perimeter is:47.1
-
 import java.util.Scanner;
 
 public class PerimeterArea {
