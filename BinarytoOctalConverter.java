@@ -7,7 +7,6 @@ package logicbuilding;
 //Expected Output
 //Octal number: 7 
 import java.util.Scanner;
-
 public class BinarytoOctalConverter {
 
 	public static void main(String[] args) {
