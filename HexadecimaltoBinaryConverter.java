@@ -5,7 +5,6 @@ package logicbuilding;
 //Input Data:
 //Enter Hexadecimal Number : 37
 //Expected Output
-
 //Equivalent Binary Number is: 110111
 import java.util.Scanner;
 
