@@ -6,7 +6,6 @@ package logicbuilding;
 //Area is:176.625
 //Perimeter is:47.1
 public class PerimeterArea1 {
-
 	public static void main(String[] args) { //π is 3.14 
 		double redius=7.5;
 		double area=3.14*redius*redius;//Formula area=πr^2 
