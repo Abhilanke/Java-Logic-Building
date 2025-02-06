@@ -6,7 +6,6 @@ package logicbuilding;
 //J  J  aaaaa   V V  aaaaa                                                
 // JJ  a     a   V  a     a
 public class PrintJavaName {
-
 	public static void main(String[] args) {
 		System.out.println("    j      A    V       V   A ");
 		System.out.println("    j     A A    V     V   A A");
