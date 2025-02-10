@@ -13,9 +13,7 @@ public class BinarytoOctalConverter {
 		Scanner scan=new Scanner(System.in);
 		System.out.print("Enter Your Binary Number >> ");
 		String num=scan.next();
-		
 		int n=Integer.parseInt(num,2);
-		
 		System.out.println("Binary to Octal Converter >> " +Integer.toOctalString(n));
 		
 	}
