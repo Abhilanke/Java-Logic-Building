@@ -1,6 +1,5 @@
 package logicbuilding;
 //17. Binary Addition
-//
 //Write a Java program to add two binary numbers.
 //Input Data:
 //Input first binary number: 10
