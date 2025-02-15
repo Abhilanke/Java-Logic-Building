@@ -13,7 +13,6 @@ public class Tcs {
             }
         }
     }
-
     // Method to check if a string is a palindrome
     public static boolean isPalindrome(String str) {
         String lowerStr = str.toLowerCase(); // Convert to lowercase for case-insensitive check
