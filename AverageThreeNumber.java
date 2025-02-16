@@ -8,8 +8,7 @@ public class AverageThreeNumber {
 		int num3=43;
 		int add=num1+num2+num3;
 		int average=add/3;
-		System.out.println("Average is :"+average);
-		
+		System.out.println("Average is :"+average);	
 	}
 
 }
