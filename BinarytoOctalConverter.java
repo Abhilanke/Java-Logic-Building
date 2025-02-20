@@ -1,6 +1,5 @@
 package logicbuilding;
 //24. Binary to Octal Converter
-//
 //Write a Java program to convert a binary number to an octal number.
 //Input Data:
 //Input a Binary Number: 111
