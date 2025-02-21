@@ -5,7 +5,6 @@ package logicbuilding;
 //Input first binary number: 10
 //Input second binary number: 11
 //Expected Output
-//
 //Sum of two binary numbers: 101
 import java.util.Scanner; 
 public class BinaryTwoNumber {
