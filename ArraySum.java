@@ -1,5 +1,6 @@
 package logicbuilding.Array;
 //Write a program To Sum of all number off array
+
 public class ArraySum {
 
 	public static void main(String[] args) {
