@@ -1,6 +1,5 @@
 package logicbuilding;
 //19. Decimal to Binary Converter
-
 //Write a Java program to convert an integer number to a binary number.
 //Input Data:
 //Input a Decimal Number : 5
