@@ -9,7 +9,6 @@ package logicbuilding;
 //...
 //8 x 10 = 80
 import java.util.Scanner;
-
 public class MultiplicationTable {
 
 	public static void main(String[] args) {
