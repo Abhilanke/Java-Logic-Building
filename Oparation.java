@@ -11,7 +11,6 @@ package logicbuilding;
 //19
 //13
 public class Oparation {
-
 	public static void main(String[] args) {
 //		int mult=8*6;
 //		int sum=-5+mult;
