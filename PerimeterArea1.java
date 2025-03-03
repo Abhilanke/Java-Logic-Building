@@ -14,5 +14,4 @@ public class PerimeterArea1 {
 		System.out.println("Peremiter is:"+peremiter);
 
 	}
-
 }
