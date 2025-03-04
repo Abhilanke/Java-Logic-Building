@@ -8,7 +8,6 @@ package logicbuilding;
 //
 //Equivalent hexadecimal number: 40
 import java.util.Scanner;
-
 public class OctaltoHexadecimalConverter {
 
 	public static void main(String[] args) {
