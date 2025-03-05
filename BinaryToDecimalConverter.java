@@ -7,7 +7,6 @@ package logicbuilding;
 //Decimal Number: 4 
 import java.util.Scanner;
 public class BinaryToDecimalConverter {
-
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
 		System.out.print("Enter Your Binary Number >> ");
