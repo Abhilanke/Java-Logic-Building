@@ -5,6 +5,7 @@ public class AllEvenOddNumberSum {
 public static void main(String[] args) {
 	    int evenno=0;
 	    int oddno=0;
+	
 		int a[]= {2,4,3,5,3};
 		
 		for(int i=0; i<a.length;i++) {
