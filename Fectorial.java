@@ -1,6 +1,5 @@
 import java.io.PrintStream;
 import java.util.Scanner;
-
 public class Fectorial { //5!=5*4*3*2*1=120;
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
