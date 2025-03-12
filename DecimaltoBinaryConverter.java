@@ -5,6 +5,7 @@ package logicbuilding;
 //Input a Decimal Number : 5
 //Expected Output
 //Binary number is: 101 
+
 import java.util.Scanner;
 
 public class DecimaltoBinaryConverter {
