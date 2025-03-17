@@ -1,6 +1,5 @@
 package logicbuilding;
 //28. Hexadecimal to Decimal Converter
-//
 //Write a Java program to convert a hexadecimal value into a decimal number.
 //Input Data:
 //Input a hexadecimal number: 25
