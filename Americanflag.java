@@ -18,6 +18,7 @@ package logicbuilding;
 //==============================================                          
 //==============================================                          
 //==============================================
+
 public class Americanflag {
 
 	public static void main(String[] args) {
