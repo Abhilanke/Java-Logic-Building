@@ -6,7 +6,6 @@ package logicbuilding;
 //Input the first binary number: 10
 //Input the second binary number: 11
 //Expected Output
-//
 //Multiplication Two Binary Number: 110 
 import java.util.Scanner;
 
