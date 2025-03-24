@@ -3,7 +3,6 @@ package logicbuilding.Array;
 public class CountOddEvenNumber {
 	public static void main(String[] args) {
 		
-
 	int a[]= {2,5,7,4,6,11,8};
 	int countEven=0;
 	int countOdd=0;
