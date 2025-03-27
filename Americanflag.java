@@ -1,6 +1,6 @@
 package logicbuilding;
 //14. American Flag Display
-//
+
 //Write a Java program to print an American flag on the screen.
 //Expected Output
 //* * * * * * ==================================                          
