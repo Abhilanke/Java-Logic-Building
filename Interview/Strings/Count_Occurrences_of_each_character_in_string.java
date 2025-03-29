@@ -11,6 +11,7 @@ public class Count_Occurrences_of_each_character_in_string {
 	}
 
 	static void ChatecterCount(String inputString) {
+		
 	HashMap<String, Integer> charCountMap = new HashMap<>();
 	
 	for(String s : inputString.split(" ")) {
