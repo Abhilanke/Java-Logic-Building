@@ -4,6 +4,7 @@ package logicbuilding;
 //B)7_6_7
 //C)can not be integer value
 //D)1248
+
 public class A2 {
 
 	public static void main(String[] args) {
