@@ -9,7 +9,7 @@ public class a {
 //		Static-create one copy
 //		void-no value return
 //		main-main method
-//		string args-
+//		string args- Array
 	}
 
 }
