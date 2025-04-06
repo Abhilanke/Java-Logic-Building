@@ -2,6 +2,7 @@ package logicBuilding1;
 
 import java.util.Scanner;
 
+
 public class Find_prime_number {
 
 	public static void main(String[] args) {
