@@ -3,7 +3,6 @@ package logicbuilding;
 import java.util.Scanner;
 
 //21. Decimal to Octal Converter
-//
 //Write a Java program to convert a decimal number to an octal number.
 //Input Data:
 //Input a Decimal Number: 15
