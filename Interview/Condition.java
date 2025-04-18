@@ -11,6 +11,7 @@ public class Condition {
 		int a = scan.nextInt();
 		System.out.print("Enter Number B :");
 		int b = scan.nextInt();
+		
 
 		if (a == b) {
 			System.out.println("Equal");
