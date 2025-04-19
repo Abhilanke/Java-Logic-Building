@@ -2,6 +2,7 @@ package logicBuilding1.Strings;
 
 //Enter The String : Welcome to the java words
 //Number of words in a String :5
+
 import java.util.Scanner;
 
 public class Count_the_number_of_words_in_a_string {
