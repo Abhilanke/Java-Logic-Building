@@ -3,6 +3,7 @@ package logicBuilding1;
 public class Calculate_the_sum_of_digit_of_a_number {
 
 	public static void main(String[] args) {
+		
 		// TODO Auto-generated method stub
 		int number=12345;
 		int sumOfDigits= calculateSumOfDigites(number);
