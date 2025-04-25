@@ -1,5 +1,6 @@
 package logicbuilding;
 
+
 //what is outpute below code
 // *A)1248.0*
 //B)7_6_7
