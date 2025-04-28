@@ -7,6 +7,7 @@ public class AgeCondition {
 	public static void main(String[] args) {
 		
 		System.out.print("Enter Your Age :");
+		
 		Scanner scan=new Scanner(System.in);
 		int age=scan.nextInt();
 		
