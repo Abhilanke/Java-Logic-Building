@@ -11,6 +11,7 @@ public class Calculate_the_sum_of_digit_of_a_number {
 		
 
 	}
+	
 
 	private static int calculateSumOfDigites(int number) {
 		// TODO Auto-generated method stub
