@@ -12,9 +12,13 @@ public class AgeCondition {
 		int age=scan.nextInt();
 		
 		if(age>=18) {
+			
 			System.out.println("Adult");
+			
 		}else {
+			
 			System.out.println("Not Adult");
+			
 		}
 
 	}
