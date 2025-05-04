@@ -13,6 +13,7 @@ public class AgeCondition {
 		
 		if(age>=18) {
 			
+			
 			System.out.println("Adult");
 			
 		}else {
