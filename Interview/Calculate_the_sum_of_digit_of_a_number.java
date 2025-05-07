@@ -24,6 +24,7 @@ public class Calculate_the_sum_of_digit_of_a_number {
 			sum = sum+digit;//add the digit to sum
 			number =number/10;//remove the last digit from number
 		}
+		
 		return sum;
 	}
 
