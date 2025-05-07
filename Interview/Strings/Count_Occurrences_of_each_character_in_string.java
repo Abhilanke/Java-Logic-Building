@@ -23,6 +23,7 @@ public class Count_Occurrences_of_each_character_in_string {
 			charCountMap.put(s,1);
 		}
 	}
+		
 	System.out.println("Conut of characters in a given string :"+charCountMap);
 	
 		
