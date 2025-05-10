@@ -6,9 +6,11 @@ import java.util.Scanner;
 public class Find_prime_number {
 
 	public static void main(String[] args) {
+		
 		Scanner scan=new Scanner(System.in);
 		System.out.print("enter any number : ");
-        int number=scan.nextInt();
+	        int number=scan.nextInt();
+		
         if(isPrime(number)) {
         	System.out.println(number+ " is prime number");
         	
