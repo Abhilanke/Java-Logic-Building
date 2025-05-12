@@ -14,6 +14,7 @@ public class Find_Fibonacci_series_upto_a_given_number_range_using_scanner {
 		
 		int number=scan.nextInt();
 		int first=0,second=1,next;
+
 		
 		System.out.print("Fibonacci series is : ");
 		
