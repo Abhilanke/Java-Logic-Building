@@ -2,7 +2,6 @@ package logicbuilding;
 
 import java.util.Scanner;
 //23. Binary to Hexadecimal Converter
-//
 //Write a Java program to convert a binary number to a hexadecimal number.
 //Input Data:
 //Input a Binary Number: 1101
