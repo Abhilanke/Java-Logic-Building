@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Find_factorial_on_given_number_using_scanner {
 
 	public static void main(String[] args) {
+		
 		int factorial=1;
 		Scanner scan=new Scanner(System.in);
 		System.out.print("Enter number : ");
