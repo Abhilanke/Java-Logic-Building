@@ -10,7 +10,9 @@ public class Find_prime_number {
 		System.out.print("enter any number : ");
 	        int number=scan.nextInt();
 		
+		
         if(isPrime(number)) {
+		
         	System.out.println(number+ " is prime number");
         	
         }
