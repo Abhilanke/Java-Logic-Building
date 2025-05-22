@@ -6,6 +6,7 @@ public class Find_even_and_odd_number_using_scanner {
 
 	public static void main(String[] args) {
 		
+		
 		Scanner scan =new Scanner(System.in);
 		System.out.print("Enter Any Number : ");
 		int number=scan.nextInt();
