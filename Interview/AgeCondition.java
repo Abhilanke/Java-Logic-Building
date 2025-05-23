@@ -10,6 +10,7 @@ public class AgeCondition {
 		System.out.print("Enter Your Age :");
 		
 		Scanner scan=new Scanner(System.in);
+		
 		int age=scan.nextInt();
 		
 		if(age>=18) {
