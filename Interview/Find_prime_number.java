@@ -7,7 +7,9 @@ public class Find_prime_number {
 	public static void main(String[] args) {
 		
 		Scanner scan=new Scanner(System.in);
+		
 		System.out.print("enter any number : ");
+		
 	        int number=scan.nextInt();
 		
 		
@@ -27,9 +29,11 @@ public class Find_prime_number {
 
 		
 		for(int i=2; i<=num / 2;i++) {
+			
 			if(num % i==0) {
 				return false;
-			}		
+			}	
+			
 		}
 		return true;
 	}
