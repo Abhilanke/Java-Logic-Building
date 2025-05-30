@@ -22,9 +22,13 @@ public class Calculate_the_sum_of_digit_of_a_number {
 		
 		int sum = 0;
 		while(number >0) {
+
+			
 			int digit = number %10;//extract the last digit
 			sum = sum+digit;//add the digit to sum
 			number =number/10;//remove the last digit from number
+
+			
 		}
 		
 		return sum;
