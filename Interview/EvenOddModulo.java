@@ -6,6 +6,7 @@ public class EvenOddModulo {
 
 	public static void main(String[] args) {
 		
+		
 		System.out.println("Enter Your number :");
 		
 		Scanner scan=new Scanner(System.in);
