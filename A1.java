@@ -7,6 +7,8 @@ package logicbuilding;
 //c)0
 //**d)Error**
 
+
+
 public class A1 {
 
 	public static void main(String[] args) {
