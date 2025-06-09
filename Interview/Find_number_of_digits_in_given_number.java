@@ -9,7 +9,9 @@ public class Find_number_of_digits_in_given_number {
 		
 		int no=0, a=0;
 		Scanner scan=new Scanner(System.in);
+		
 		System.out.println("Enter Any Number : ");
+		
 		no=scan.nextInt();
 		if(no<0){
 			no=no* -1;
