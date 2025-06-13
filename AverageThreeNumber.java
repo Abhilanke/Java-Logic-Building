@@ -4,6 +4,8 @@ package logicbuilding;
 //Formula is Average = Sum/Count  ,,,,,, for example Average=num1+num2+num3/3 = ans
 
 
+
+
 public class AverageThreeNumber {
 	public static void main(String[] args) {
 		int num1=24;
