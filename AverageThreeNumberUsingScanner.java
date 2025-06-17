@@ -5,6 +5,7 @@ package logicbuilding;
 import java.util.Scanner;
 public class AverageThreeNumberUsingScanner {
 	public static void main(String[] args) {
+		
 		Scanner scan=new Scanner(System.in);
 		System.out.println("Enter your first number : ");
 		int num1=scan.nextInt();
