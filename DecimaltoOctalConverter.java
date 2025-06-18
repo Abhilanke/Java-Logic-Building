@@ -8,6 +8,7 @@ import java.util.Scanner;
 //Input a Decimal Number: 15
 //Expected Output
 //Octal number is: 17
+
 public class DecimaltoOctalConverter {
 
 	public static void main(String[] args) {
