@@ -3,6 +3,8 @@ package logicbuilding.Array;
 
 //Write a Program To Addition of Even number and odd Number ?
 public class AllEvenOddNumberSum {
+
+	
 public static void main(String[] args) {
 	    int evenno=0;
 	    int oddno=0;
