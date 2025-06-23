@@ -3,6 +3,8 @@ package logicbuilding;
 public class CountVowelsAndConconants {
 
 	public static void main(String[] args) {
+
+		
 		String str="Automations";
 
 		
