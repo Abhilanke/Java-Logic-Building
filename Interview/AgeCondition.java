@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 
 public class AgeCondition {
-
-	
 	
 	public static void main(String[] args) {
 		
