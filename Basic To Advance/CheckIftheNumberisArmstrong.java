@@ -1,6 +1,7 @@
 package logicbuilding;
 
 public class CheckIftheNumberisArmstrong {
+	
 
 	public static void main(String[] args) {
 		
