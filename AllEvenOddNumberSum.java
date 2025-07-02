@@ -8,6 +8,8 @@ public class AllEvenOddNumberSum {
 public static void main(String[] args) {
 	    int evenno=0;
 	    int oddno=0;
+
+	
 	
 		int a[]= {2,4,3,5,3};
 		
