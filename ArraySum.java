@@ -6,6 +6,8 @@ public class ArraySum {
 	public static void main(String[] args) {
 		//Add One Array 
 		int a[]= {4,7,5,2,8};
+
+
 		
 		int sum=0;
 		
