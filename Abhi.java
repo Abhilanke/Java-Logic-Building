@@ -5,6 +5,7 @@ public class Abhi {
         int sales[]=new int[7];
         for(int i=0;i<7;i++){
             sales[i]=scan.nextInt();
+            
         }
         for(int i=0;i<7;i++)
         {
