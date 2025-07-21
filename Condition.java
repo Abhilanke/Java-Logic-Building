@@ -3,6 +3,7 @@ package logicBuilding1;
 import java.util.Scanner;
 
 public class Condition {
+	
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Enter number A :");
