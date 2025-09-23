@@ -11,6 +11,7 @@ package logicbuilding;
 //125 mod 24 = 5 
 
 
+
 import java.util.Scanner;
 public class AllOparation1 {
 
@@ -35,3 +36,4 @@ public class AllOparation1 {
 	}
 
 }
+
