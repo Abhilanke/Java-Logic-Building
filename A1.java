@@ -1,6 +1,4 @@
 package logicbuilding;
-
-
 //1What will be  output Below code
 //a)028
 //b)28
@@ -17,4 +15,5 @@ public class A1 {
 	}
 
 }
+
 
