@@ -10,10 +10,12 @@ public class A1 {
 	public static void main(String[] args) {
 		
 		int i= 028;
+
 		System.out.println(i);
 
 	}
 
 }
+
 
 
