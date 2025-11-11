@@ -9,7 +9,9 @@ import java.util.Scanner;
 //Expected Output
 //Octal number is: 17
 
+
 public class DecimaltoOctalConverter {
+	
 
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
@@ -21,3 +23,4 @@ public class DecimaltoOctalConverter {
 	}
 
 }
+
