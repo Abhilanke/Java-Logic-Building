@@ -4,6 +4,8 @@ package logicbuilding;
 //74 + 36
 //Expected Output :
 //110
+
+
 public class SumOfTwoNumber {
 	public static void main(String args[]) {
 		int sum= 74 + 36;//Arithmetic Operation
@@ -12,3 +14,4 @@ public class SumOfTwoNumber {
 	}
 
 }
+
