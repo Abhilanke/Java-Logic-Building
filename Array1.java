@@ -3,6 +3,8 @@ package logicbuilding;
 public class Array1 {
 	
 	    public static void main(String[] args) {
+
+			
 	        int[] array1 = {2, 4, 6, 8, 10};
 	        int[] array2 = {1, 3, 6, 8, 12};
 
@@ -25,5 +27,6 @@ public class Array1 {
 	        }
 	    }
 	}
+
 
 
