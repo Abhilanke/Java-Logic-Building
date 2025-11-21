@@ -2,9 +2,6 @@ package logicbuilding;
 //32. Compare Two Numbers
 //
 //Write a Java program to compare two numbers.
-
-
-
 //Input Data:
 //Input first integer: 25
 //Input second integer: 39
@@ -61,5 +58,6 @@ public class CompareTwoNumbers {
 	}
 
 }
+
 
 
