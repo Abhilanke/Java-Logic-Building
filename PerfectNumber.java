@@ -10,6 +10,8 @@ public class PerfectNumber {
 		
 		double sqrt=Math.sqrt(a);
 		double sqrtf=Math.floor(sqrt);
+
+
 		
 		System.out.println(sqrt);
 		System.out.println(sqrtf);
@@ -24,3 +26,4 @@ public class PerfectNumber {
 	}
 
 }
+
