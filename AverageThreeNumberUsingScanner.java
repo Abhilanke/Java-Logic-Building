@@ -16,9 +16,12 @@ public class AverageThreeNumberUsingScanner {
 		 //Formula is Average = Sum/Count 
 		int sum=num1+num2+num3;//Total Addition and divided by 3
 		int Average=sum/3;
+
+		
 		
 		System.out.println("Avarage is :"+Average);
 		
 	}
 
 }
+
