@@ -6,6 +6,7 @@ package logicbuilding;
 //Input any octal number: 10
 //Expected Output
 //
+
 //Equivalent decimal number: 8   
 import java.util.Scanner;
 
@@ -23,3 +24,4 @@ public class OctaltoDecimalConverter {
 	}
 
 }
+
