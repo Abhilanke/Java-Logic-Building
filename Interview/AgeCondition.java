@@ -2,6 +2,7 @@ package logicBuilding1;
 
 import java.util.Scanner;
 
+
 public class AgeCondition {
 	
 	public static void main(String[] args) {
@@ -26,3 +27,4 @@ public class AgeCondition {
 	}
 
 }
+
