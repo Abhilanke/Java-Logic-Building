@@ -6,6 +6,7 @@ package logicbuilding;
 //2.138888888888889
 
 
+
 public class Oparation1 {
 
 	public static void main(String[] args) {
@@ -14,4 +15,5 @@ public class Oparation1 {
 	}
 
 }
+
 
