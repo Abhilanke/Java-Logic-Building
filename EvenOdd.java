@@ -9,7 +9,9 @@ public class EvenOdd {
 		Scanner scan=new Scanner(System.in);
 		System.out.println("Enter Your Number :-");
 		
+		
 		int a=scan.nextInt();
+		
 		if((a%2)==0) {
 			
 			System.out.println("Even Number >>> "+a);
@@ -21,4 +23,5 @@ public class EvenOdd {
 	}
 
 }
+
 
