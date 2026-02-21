@@ -6,6 +6,8 @@ package logicbuilding;
 //8 x 1 = 8
 //8 x 2 = 16
 //8 x 3 = 24
+
+
 //...
 //8 x 10 = 80
 import java.util.Scanner;
@@ -23,3 +25,4 @@ public class MultiplicationTable {
 	}
 
 }
+
