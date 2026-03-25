@@ -1,7 +1,5 @@
 package logicbuilding.Array;
 //Creating 2 array even and odd separeate 
-
-
 public class CreateTwoArray {
 	
 	public static void main(String[] args) {
