@@ -9,9 +9,6 @@ package logicbuilding;
 //125 x 24 = 3000
 //125 / 24 = 5
 //125 mod 24 = 5 
-
-
-
 import java.util.Scanner;
 public class AllOparation1 {
 
